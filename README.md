@@ -10,6 +10,8 @@ Currently firefox add-ons are signed, so the aim would be to make all variables 
 
 ### Running a customised version of TrackMeNot  
 
+Javascript is an open text code, run by the browser at the time. Mozila insist that any code run as an extension must be signed to avoid tampering. By using the Developer version of Firefox it is possible to run unsigned applications, or include new modifications.
+
 Back-up your settings folder, under .mozilla in GNU/Linux. Or run the developer edition of Firefox in a Virtual environment, VM or jail.  
 
 
